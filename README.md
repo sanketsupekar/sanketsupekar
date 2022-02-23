@@ -11,35 +11,48 @@
 </p>
 
 ## :sassy_man:  About me
-- :school: After ssc, I completed a diploma in computer technology
 - :student: Right now, I am in my second year of a B.Tech in information technology, VIIT Pune.
-- :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a software developer mainly at `Web Applications`
 - :student: I’m currently learning new web technology's: `React.js` and `Node.js`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1EUPwH5Ye9haBDO_muwyMyVD-WT90OwiR/view?usp=sharing).
-- :nerd_face: Always `learning new things`
 
 <br>
 
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
-- Java | Python | JavaScript
+<p>
+  <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=Java&logoColor=61DAFB" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=Python&logoColor=61DAFB" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=JavaScript&logoColor=61DAFB" />&nbsp;&nbsp;
 
 ### 👉 Frontend Development
-- HTML | CSS | JavaScript
-- React.js | Bootstrap
-
+<p>
+  <img src="https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=HTML5&logoColor=61DAFB" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=CSS3&logoColor=61DAFB" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=JavaScript&logoColor=61DAFB" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=Bootstrap&logoColor=61DAFB" />&nbsp;&nbsp;
+  </p>
+  
 ### 👉 Backend Development
-- Node.js | Express.js
-- MongoDB | Firebase Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=Node.js&logoColor=61DAFB" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=61DAFB" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=61DAFB" />&nbsp;&nbsp;
+  </p>
 
 ### 👉 Software & Tools
-- Git-Github | Postman (APIs Development) | Photoshop
-
-### 👉 IDEs
-- visual studio | JetBrains | Android Studio | R Studio
+<p>
+  <img src="https://img.shields.io/badge/Github-20232A?style=for-the-badge&logo=GitHub&logoColor=61DAFB" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=Postman&logoColor=61DAFB" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Photoshop-20232A?style=for-the-badge&logo=adobe%20photoshop&logoColor=61DAFB" />&nbsp;&nbsp;
+  </p>
+  
  
 ### 👉 Problem Solving
-- HackerRank | GeekForGeeks
+<p>
+  <img src="https://img.shields.io/badge/HackerRank-20232A?style=for-the-badge&logo=HackerRank&logoColor=61DAFB" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GeekForGeeks-20232A?style=for-the-badge&logo=GeeksforGeeks&logoColor=61DAFB" />&nbsp;&nbsp;
+  </p>
 
