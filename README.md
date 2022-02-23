@@ -13,39 +13,23 @@
 
 ## 🛠️ My Skills
 
-#### 👉 Programming languages
-- Java
-- Python
-- JavaScript
+### 👉 Programming languages
+- Java | Python | JavaScript
 
-#### 👉 Frontend Development
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Bootstrap
+### 👉 Frontend Development
+- HTML | CSS | JavaScript
+- React.js | Bootstrap
 
+### 👉 Backend Development
+- Node.js | Express.js
+- MongoDB | Firebase Database
 
-#### 👉 Backend Development
-- Node.js
-- Express.js
-- MongoDB
-- Firebase Database
+### 👉 Software & Tools
+- Git-Github | Postman (APIs Development) | Photoshop
 
-#### 👉 Software & Tools
-- Git
-- Github
-- Postman (API Development)
-- Photoshop
-
-#### 👉 IDEs
-- visual studio
-- JetBrains
-- Android Studio
-- R Studio
+### 👉 IDEs
+- visual studio | JetBrains | Android Studio | R Studio
  
-
-#### 👉 Problem Solving
-- HackerRank
-- GeekForGeeks
+### 👉 Problem Solving
+- HackerRank | GeekForGeeks
 
