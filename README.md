@@ -14,9 +14,9 @@
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
--Java
--Python
--JavaScript
+- Java
+- Python
+- JavaScript
 
 ### 👉 Frontend Development
 <p align="center"> 
