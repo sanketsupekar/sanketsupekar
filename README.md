@@ -13,7 +13,7 @@
 - :student: Right now, I am in my second year of a B.Tech in information technology, VIIT Pune.
 - :computer: I am a software developer mainly at `Web Applications`
 - :student: I’m currently learning new web technology's: `React.js` and `Node.js`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1EUPwH5Ye9haBDO_muwyMyVD-WT90OwiR/view?usp=sharing).
+- :thinking: I’m currently open for: `An Intern`, this is [MY RESUME](https://drive.google.com/file/d/1EUPwH5Ye9haBDO_muwyMyVD-WT90OwiR/view?usp=sharing).
 
 <br>
 
