@@ -22,14 +22,11 @@
 ### 👉 Programming languages
 <p>
   <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=Java&logoColor=61DAFB" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=Python&logoColor=61DAFB" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=JavaScript&logoColor=61DAFB" />&nbsp;&nbsp;
 
 ### 👉 Frontend Development
 <p>
   <img src="https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=HTML5&logoColor=61DAFB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=CSS3&logoColor=61DAFB" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=JavaScript&logoColor=61DAFB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=Bootstrap&logoColor=61DAFB" />&nbsp;&nbsp;
   </p>
@@ -44,8 +41,6 @@
 ### 👉 Software & Tools
 <p>
   <img src="https://img.shields.io/badge/Github-20232A?style=for-the-badge&logo=GitHub&logoColor=61DAFB" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=Postman&logoColor=61DAFB" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Photoshop-20232A?style=for-the-badge&logo=adobe%20photoshop&logoColor=61DAFB" />&nbsp;&nbsp;
   </p>
   
  
